@@ -1,7 +1,7 @@
 {"apps": [
   {
     "app_interstitial_url": "https://raw.githubusercontent.com/novelland/image/master/banner_1.jpg",
-    "app_uri": "https://play.google.com/store/apps/details?id=novels.teru.novel_flutter_app",
+    "app_uri": "novels.teru.novel_flutter_app",
     "app_adType": "interstitial"
   },
   {
@@ -9,7 +9,7 @@
     "app_desc": "Here you can read unlimited ebooks in our ebook reader",
     "app_icon": "https://raw.githubusercontent.com/novelland/image/master/icon_512.png",
     "app_header_image": "https://raw.githubusercontent.com/novelland/image/master/ad_header.png",
-    "app_uri": "https://play.google.com/store/apps/details?id=novels.teru.novel_flutter_app",
+    "app_uri": "novels.teru.novel_flutter_app",
     "app_rating": "4.5",
     "app_cta_text": "Install",
     "app_price": "Free",
