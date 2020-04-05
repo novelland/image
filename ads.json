@@ -15,7 +15,7 @@
         "app_cta_text": "Install",
         "app_price": "Free",
         "app_adType": "native",
-        "hideIfAppInstalled": false
+        "hideIfAppInstalled": true
       },
       {
         "app_interstitial_url": "https://raw.githubusercontent.com/dreamcatcher-northwind/sharedcontent/master/carhit/assets/banner.png",
@@ -34,4 +34,4 @@
         "app_adType": "native"
       }
     ]
-  }
+  }x
