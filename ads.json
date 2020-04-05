@@ -1,36 +1,37 @@
 {
-  "apps": [
+    "apps": [
       {
-          "app_interstitial_url": "https://raw.githubusercontent.com/novelland/image/master/banner_1.jpg",
-          "app_uri": "novels.teru.novel_flutter_app",
-          "app_adType": "interstitial"
+        "app_interstitial_url": "https://raw.githubusercontent.com/novelland/image/master/banner_1.jpg",
+        "app_uri": "novels.teru.novel_flutter_app",
+        "app_adType": "interstitial"
       },
       {
-          "app_title": "Novel App",
-          "app_desc": "Here you can read unlimited ebooks in our ebook reader",
-          "app_icon": "https://raw.githubusercontent.com/novelland/image/master/icon_512.png",
-          "app_header_image": "",
-          "app_uri": "novels.teru.novel_flutter_app",
-          "app_rating": "4.5",
-          "app_cta_text": "Install",
-          "app_price": "Free",
-          "app_adType": "native"
-      },  
-    {
-          "app_interstitial_url": "https://raw.githubusercontent.com/dreamcatcher-northwind/sharedcontent/master/carhit/assets/banner.png",
-          "app_uri": "com.amanotes.rhythmcity3d",
-          "app_adType": "interstitial"
-      }, {
-          "app_title": "Crash city",
-          "app_desc": "Hit 'em all! An INCREDIBLE man could hit all the vehicles on city road!",
-          "app_icon": "https://raw.githubusercontent.com/dreamcatcher-northwind/sharedcontent/master/carhit/assets/game_icon.png",
-          "app_header_image": "",
-          "app_uri": "com.amanotes.rhythmcity3d",
-          "app_rating": "4.5",
-          "app_cta_text": "Install",
-          "app_price": "Free",
-          "app_adType": "native"
+        "app_title": "Novel App",
+        "app_desc": "Here you can read unlimited ebooks in our ebook reader",
+        "app_icon": "https://raw.githubusercontent.com/novelland/image/master/icon_512.png",
+        "app_header_image": "",
+        "app_uri": "novels.teru.novel_flutter_app",
+        "app_rating": "4.5",
+        "app_cta_text": "Install",
+        "app_price": "Free",
+        "app_adType": "native",
+        "hideIfAppInstalled": false
+      },
+      {
+        "app_interstitial_url": "https://raw.githubusercontent.com/dreamcatcher-northwind/sharedcontent/master/carhit/assets/banner.png",
+        "app_uri": "com.amanotes.rhythmcity3d",
+        "app_adType": "interstitial"
+      },
+      {
+        "app_title": "Crash city",
+        "app_desc": "Hit 'em all! An INCREDIBLE man could hit all the vehicles on city road!",
+        "app_icon": "https://raw.githubusercontent.com/dreamcatcher-northwind/sharedcontent/master/carhit/assets/game_icon.png",
+        "app_header_image": "",
+        "app_uri": "com.amanotes.rhythmcity3d",
+        "app_rating": "4.5",
+        "app_cta_text": "Install",
+        "app_price": "Free",
+        "app_adType": "native"
       }
-
-  ]
-}
+    ]
+  }
