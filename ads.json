@@ -1,11 +1,6 @@
 {
     "apps": [
       {
-        "app_interstitial_url": "",
-        "app_uri": "novels.teru.novel_flutter_app",
-        "app_adType": "interstitial"
-      },
-      {
         "app_title": "Novel App",
         "app_desc": "Here you can read unlimited ebooks in our ebook reader",
         "app_icon": "https://raw.githubusercontent.com/novelland/image/master/icon_512.png",
