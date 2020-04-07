@@ -1,7 +1,7 @@
 {
     "apps": [
       {
-        "app_interstitial_url": "https://raw.githubusercontent.com/novelland/image/master/banner_1.jpg",
+        "app_interstitial_url": "",
         "app_uri": "novels.teru.novel_flutter_app",
         "app_adType": "interstitial"
       },
