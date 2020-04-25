@@ -26,7 +26,8 @@
         "app_rating": "4.5",
         "app_cta_text": "Install",
         "app_price": "Free",
-        "app_adType": "native"
+        "app_adType": "native",
+        "hideIfAppInstalled": true
       }
       
     ]
