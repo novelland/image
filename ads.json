@@ -13,11 +13,6 @@
         "hideIfAppInstalled": true
       },
       {
-        "app_interstitial_url": "https://raw.githubusercontent.com/dreamcatcher-northwind/sharedcontent/master/carhit/assets/banner.png",
-        "app_uri": "com.amanotes.rhythmcity3d",
-        "app_adType": "interstitial"
-      },
-      {
         "app_title": "Crash city",
         "app_desc": "Hit 'em all! An INCREDIBLE man could hit all the vehicles on city road!",
         "app_icon": "https://raw.githubusercontent.com/dreamcatcher-northwind/sharedcontent/master/carhit/assets/game_icon.png",
